@@ -9,3 +9,8 @@ The coding of FizzBuzz test has been done in two ways.
 In one of them, only a method called FizzBuzz has been defined.
 
 In the second one, a class called FizzBuzz has been defined and a method called play has been defined.
+
+
+In order to run the test file, you should run the following command in the command line:
+
+``` python test_sample.py ```

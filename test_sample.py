@@ -21,3 +21,10 @@ def test_15():
 def test_7():
     object = FizzBuzz()
     assert object.play(7) == 7
+if __name__ == "__main__":
+    test_answer()
+    test_3()
+    test_5()
+    test_15()
+    test_7()
+    print("Everything passed")
